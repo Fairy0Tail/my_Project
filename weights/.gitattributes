@@ -1,0 +1,4 @@
+best.torchscript filter=lfs diff=lfs merge=lfs -text
+best.torchscript4.pt filter=lfs diff=lfs merge=lfs -text
+best.torchscript5.pt filter=lfs diff=lfs merge=lfs -text
+coco.names filter=lfs diff=lfs merge=lfs -text
